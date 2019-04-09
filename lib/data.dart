@@ -9,10 +9,10 @@ List<String> sizeNumlist = [
 
 List<Color> colors = [
   Color(0xFFF9362E),
-  Color(0xFFF9362E),
-  Color(0xFFF9362E),
-  Color(0xFFF9362E),
-  Color(0xFFF9362E),
+  Color(0xFF003CFF),
+  Color(0xFFFFB73A),
+  Color(0xFF3AFFFF),
+  Color(0xFFD66400),
 ];
 
 String desc = 
